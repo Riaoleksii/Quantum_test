@@ -1,2 +1,2 @@
-Erosion detection
+This repository contains the code for Task 4 of the Quantum Internship program (erosion detection).
 This project aims to detect erosion in Sentinel2 satellite images using machine learning. The Task_4.ipynb script uses rasterio and geopandas to create a binary mask of the eroded areas in the satellite image, and then trains a neural network using TensorFlow to predict the presence of erosion in new satellite images.
