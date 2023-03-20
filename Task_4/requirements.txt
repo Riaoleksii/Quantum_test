@@ -1,0 +1,16 @@
+folium
+tensorflow_hub
+imageio
+selenium
+pdf
+imgkit
+html2image
+rasterio
+pandas
+geopandas
+shapely
+scikit-image
+numpy
+matplotlib
+opencv-python
+IPython
